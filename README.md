@@ -6,10 +6,10 @@ It does not contain the private game source code. Use the Releases page for APK 
 
 ## Latest Android Build
 
-- Version: `v0.04-android.4`
-- APK: `com.thawpointproductions.nudybynature-0.04.4-40004-release.apk`
-- Download: https://github.com/limecurse-bot/nudy-by-nature-builds/releases/tag/v0.04-android.4
-- SHA-256: `a71d143115d82904761bf26ca53527165497be2cb0118c8b9ab667805f7250f9`
+- Version: `v0.04-android.5`
+- APK: `com.thawpointproductions.nudybynature-0.04.5-40005-release.apk`
+- Download: https://github.com/limecurse-bot/nudy-by-nature-builds/releases/tag/v0.04-android.5
+- SHA-256: `4bef25d210164f88db8814f815c22aa3ac5a8754b8a1cee46c43ff8bd432a476`
 
 ## Android Install Notes
 
