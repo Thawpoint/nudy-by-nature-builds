@@ -8,7 +8,7 @@ It does not contain the private game source code. Use the Releases page for APK 
 
 - Version: `v0.04-android.5`
 - APK: `com.thawpointproductions.nudybynature-0.04.5-40005-release.apk`
-- Download: https://github.com/limecurse-bot/nudy-by-nature-builds/releases/tag/v0.04-android.5
+- Download: https://github.com/Thawpoint/nudy-by-nature-builds/releases/tag/v0.04-android.5
 - SHA-256: `4bef25d210164f88db8814f815c22aa3ac5a8754b8a1cee46c43ff8bd432a476`
 
 ## Android Install Notes
@@ -19,6 +19,11 @@ It does not contain the private game source code. Use the Releases page for APK 
 - If an update fails, uninstall the old playtest and install the new APK again.
 
 ## Bug Reports
+
+Please keep playtest feedback consolidated in Discord:
+https://discord.gg/mYSTKpTW
+
+Use the bug-reporting channel for bugs, crashes, and weird behavior. Use the suggestions channel for UI, readability, touch controls, and general Android/tablet feedback.
 
 Please include:
 
