@@ -4,6 +4,13 @@ This repository is a release-only download surface for public Android playtest A
 
 It does not contain the private game source code. Use the Releases page for APK downloads, SHA-256 checksums, install notes, and known issues.
 
+## Latest Android Build
+
+- Version: `v0.04-android.4`
+- APK: `com.thawpointproductions.nudybynature-0.04.4-40004-release.apk`
+- Download: https://github.com/limecurse-bot/nudy-by-nature-builds/releases/tag/v0.04-android.4
+- SHA-256: `a71d143115d82904761bf26ca53527165497be2cb0118c8b9ab667805f7250f9`
+
 ## Android Install Notes
 
 - These builds are direct sideload APKs, not Google Play releases.
